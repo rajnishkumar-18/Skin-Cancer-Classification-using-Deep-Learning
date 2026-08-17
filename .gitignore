@@ -1,0 +1,13 @@
+# Datasets & Checkpoints
+Data/
+*.h5
+*.pt
+*.pth
+*.zip
+*.tar.gz
+
+# Python Cache
+_pycache_/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
