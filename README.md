@@ -1,4 +1,4 @@
-# Skin Cancer Classification using Deep Learning
+# Clinical Data & Predictive Analytics System
 ## [:film_projector: Presentation Link](https://youtu.be/OEcFbeO88fQ) | [:pencil2:How to use the tool](https://youtu.be/60tc351UIxw)
 
 
